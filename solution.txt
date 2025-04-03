@@ -1,0 +1,12 @@
+Cross Site Scripting
+In feedback form once loggest in
+<script>alert("hacked");</script>
+
+
+SQL Injection
+In password field
+' or 1=1--
+
+
+Redirect
+<script>window.location.replace("http://www.w3schools.com");</script>
